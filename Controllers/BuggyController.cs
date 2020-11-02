@@ -1,8 +1,9 @@
 using System;
-using API.Data;
+using Data;
 using API.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using API;
 
 namespace Controllers
 {
